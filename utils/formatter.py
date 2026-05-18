@@ -1,2 +1,2 @@
-def format_price(data):
-    return str(data)
+def format_price(price):
+    return f"${price}"
